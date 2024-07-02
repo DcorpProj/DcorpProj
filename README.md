@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I am Russian person.
 - News:
   In this month I made update of dfgOS, in next month Linux port of new version
+I am very busy now.
