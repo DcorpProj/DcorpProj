@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on... IDK
-- 📫 How to reach me: Telegram (@winxp_minimal)
+- 📫 How to reach me: Telegram (@winxp_minimal) or Discord (@dima123321#5514 or dima1233215514)
 - 😄 Pronouns: Dima, Dimon, D Corp.
 - ⚡ Fun fact: I am Russian person.
 - 📰 News:
