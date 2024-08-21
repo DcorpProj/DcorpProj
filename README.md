@@ -4,7 +4,8 @@
     <img src="https://img.shields.io/badge/status-up-brightgreen" alt="Status"/> &nbsp;
     <img src="https://img.shields.io/github/followers/DcorpProj?style=flat&logo=github" alt="Followers"/> &nbsp;
     <img src="https://img.shields.io/github/last-commit/DcorpProj/DcorpProj" alt="Last commit"/> &nbsp;
- 
+
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GIF" width=100% hight="auto">
 - 👋 Hi, I’m @DcorpProj, or Dima
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
