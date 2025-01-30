@@ -1,4 +1,7 @@
+<div align="center">
 ![giphy](https://github.com/DcorpProj/DcorpProj/assets/170188864/896e4b73-41b2-44d8-a48d-a0d144a01099)
+</div>
+[Just a programmer]
 <div align="center">
   <h2>Stats</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DcorpProj&theme=algolia">
