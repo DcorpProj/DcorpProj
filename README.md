@@ -17,6 +17,7 @@
 - 😄 Pronouns: Dima, Dimon, D Corp.
 - ⚡ Fun fact: I am Russian person.
 - 📰 News:
-In this month I made update of dfgOS, in next month Linux port of new version
+I probably make an library to Python (on PyPI, like my wixp_lib that not importing, why i dont know)
+
 
 I am very busy now.
