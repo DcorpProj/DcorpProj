@@ -9,15 +9,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DcorpProj&theme=algolia">
 </div>
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GIF" width=100% hight="auto">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="" width=100% hight="auto">
 - 👋 Hi, I’m @DcorpProj, or Dima<br>
-- 👀 I’m interested in Programming<br>
-- 🌱 I’m currently learning Python<br>
-- 💞️ I’m looking to collaborate on... IDK<br>
-- 📫 How to reach me: Telegram<br> (@winxp_minimal) or Discord (@dima123321#5514 or dima1233215514)<br>
-- 😄 Pronouns: Dima, Dimon, D Corp.<br>
-- ⚡ Fun fact: I am Russian person.<br>
+- 👀 I’m interested in Programming and Web-design<br>
+- 🌱 I’m currently learning Python and HTML<br>
+- 💞️ I’m looking to collaborate on... idk<br>
+- 📫 How to reach me: Telegram (@winxp_minimal) or Discord (@dima123321#5514 or dima1233215514)<br>
+- 😄 Pronouns: he/him<br>
+- ⚡ Fun fact: Almost all projects i made maked because i be bored =)<br>
 - 📰 News:<br>
-I probably make an library to Python (on PyPI, like my wixp_lib that not importing, why i dont know)<br>
-418 I'm teapot about me (idk why)
-
+idk :D
