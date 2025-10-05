@@ -10,7 +10,7 @@
 </div>
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="" width=100% hight="auto">
-- 👋 Hi, I’m @DcorpProj, or Dima<br>
+- 👋 Hi, I’m DcorpProj, or ittsmatrixx<br>
 - 👀 I’m interested in Programming and Web-design<br>
 - 🌱 I’m currently learning Python and HTML<br>
 - 💞️ I’m looking to collaborate on... idk<br>
