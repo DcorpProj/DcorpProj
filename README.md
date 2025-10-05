@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Python and HTML<br>
 - 💞️ I’m looking to collaborate on... idk<br>
 - 📫 How to reach me: Telegram (@winxp_minimal) or Discord (@dima123321#5514 or dima1233215514)<br>
-- 😄 Pronouns: he/him<br>
+- 😄 Pronouns: any/all<br>
 - ⚡ Fun fact: Almost all projects i made maked because i be bored =)<br>
 - 📰 News:<br>
 idk :D
