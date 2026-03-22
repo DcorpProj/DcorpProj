@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Python and HTML<br>
 - 💞️ I’m looking to collaborate on backend stuff.<br>
 - 📫 How to reach me: Telegram (@winxp_minimal) or Discord (@dima123321#5514 or dima1233215514)<br>
-- 😄 Pronouns: any/all<br>
+- 😄 Pronouns: pigeon/pigeon у меня гитхаб на мобиле сломался<br>
 - ⚡ Fun fact: Almost all projects i made maked because i be bored =)<br>
 - 📰 News:<br>
 idk :D
